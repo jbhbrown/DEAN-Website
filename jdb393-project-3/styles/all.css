@@ -1,0 +1,314 @@
+body {
+    background-color: #f3f3f3;
+}
+
+h1 {
+    color: #30302f;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 50px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #30302f;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragraph {
+    text-align: left;
+    width: 45%;
+}
+
+.paragraph2 {
+    text-align: left;
+    width: 55%;
+}
+
+a {
+    color: #30302f;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+#title {
+    margin-left: 50px;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+
+#titleText {
+    text-decoration: none;
+    font-size: 150%;
+}
+
+nav {
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+li {
+    display: inline;
+    list-style: none;
+    margin-right: 50px;
+    padding: 2px;
+}
+
+.navLink {
+    text-decoration: none;
+    font-size: 150%;
+}
+
+#currentPage {
+    background-color: #b54a97;
+}
+
+footer {
+    line-height: 6px;
+    margin-bottom: 25px;
+    margin-top: 70px;
+}
+
+.label {
+    margin-top: 50px;
+}
+
+.form_error {
+    color: red;
+}
+
+.legend {
+    text-align: center;
+}
+
+.legend {
+    text-align: center;
+}
+
+.userInput {
+    width: 250px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.userInput .inputLabel {
+    float: left;
+}
+
+.userInput .inputField {
+    float: right;
+}
+
+fieldset p {
+    margin-bottom: 40px;
+}
+
+#submit {
+    float: center;
+    text-align: center;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tour {
+    text-align: center;
+}
+
+#tour li {
+    margin-top: 50px;
+    letter-spacing: 0.2em;
+}
+
+#tour ul {
+    margin-top: 50px;
+}
+
+.col1 {
+    align-content: left;
+}
+
+.col3 {
+    align-content: right;
+}
+
+.smallPaddingTop {
+    margin-top: 0px;
+}
+
+.smallPaddingBottom {
+    margin-bottom: 0px;
+}
+
+#confirmed {
+    text-align: center;
+}
+
+.searchInfo {
+    padding-right: 90px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#searchButton {
+    float: center;
+    text-align: center;
+    /* padding-right: 100px; */
+}
+
+#search {
+    padding-bottom: 50px;
+}
+
+#loginButton {
+    margin-left: auto 50px;
+    margin-right: auto;
+    width: 70px;
+    margin-top: 20px;
+    margin-left: 42px;
+    padding-top: 0px;
+}
+
+#searchForm {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 30%;
+    padding-left: 80px;
+    padding-top: 50px;
+}
+
+#searchSelection {
+    padding-right: 80px !important;
+}
+
+#searchForm p {
+    width: 80% !important;
+    padding-right: 500px !important;
+}
+
+#postForm {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 30%;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
+#spostForm p {
+    width: 80% !important;
+    padding-right: 500px !important;;
+}
+
+.viewForm {
+    display: inline-block;
+}
+
+#uploadArea {
+    padding-left: 25px;
+}
+
+#displayButtons {
+    margin-top: 20px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 40px;
+    width: 10%;
+}
+
+.submit1 {
+    width: 115x;
+}
+
+.submit2 {
+    margin-top: 10px;
+    width: 115px;
+}
+
+#loginForm li {
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+#loginError {
+    width: 250px !important;
+    padding-right: 50px;
+}
+
+.login h1 {
+    padding-left: 50px;
+}
+
+.login {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 11%;
+    padding-right: 80px;
+}
+
+.pw {
+    padding-left: 3.5px;
+}
+
+#galleryImage {
+    max-width: 40%;
+    max-height: 40%;
+    padding-top: 50px;
+}
+
+#deanGallery {
+    text-align: center;
+    margin-right: 40px;
+}
+
+#uploadInputList li{
+    display: inline-block;
+    width: 400px;
+    padding-bottom: 20px;
+}
+
+#uploadSubmission {
+    margin-left: auto;
+    margin-right: auto;
+    width: 410px;
+    padding-right: 100px;
+}
+
+#deanGallery h2 {
+    font-size: 1.3em;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+
+#deanGallery p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.hidden {
+    visibility: hidden;
+    width: 0px;
+}
+
+.hiddenNews {
+    visibility: hidden;
+}
